@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 634cf8f6304a0f144822dafd2dcbaa19
+timeCreated: 1512687459
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107807
+  packageName: Pixel Art Infinite Runner Pack
+  packageVersion: 3.2
+  assetPath: Assets/Pixel Art Infinite Runner/Lisense.txt
+  uploadId: 341195

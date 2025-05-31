@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b48eee502cd1e74199e11380caef76b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107807
+  packageName: Pixel Art Infinite Runner Pack
+  packageVersion: 3.2
+  assetPath: Assets/Pixel Art Infinite Runner/Animation/Characters/PlayerAnimation.controller
+  uploadId: 341195

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 1e935611c6a0cb04a9a556623f4340c1
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107807
+  packageName: Pixel Art Infinite Runner Pack
+  packageVersion: 3.2
+  assetPath: Assets/Pixel Art Infinite Runner/Music/jump.wav
+  uploadId: 341195

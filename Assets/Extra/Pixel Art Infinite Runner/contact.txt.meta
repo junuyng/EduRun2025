@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da1c51fc55805ad4da1bd4b570b9c001
+timeCreated: 1512687459
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107807
+  packageName: Pixel Art Infinite Runner Pack
+  packageVersion: 3.2
+  assetPath: Assets/Pixel Art Infinite Runner/contact.txt
+  uploadId: 341195

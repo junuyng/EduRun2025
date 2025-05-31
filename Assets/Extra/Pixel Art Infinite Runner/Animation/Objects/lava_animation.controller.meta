@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 88aa12a8fed1b8b4bb0fd86753b79c20
+timeCreated: 1512693008
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107807
+  packageName: Pixel Art Infinite Runner Pack
+  packageVersion: 3.2
+  assetPath: Assets/Pixel Art Infinite Runner/Animation/Objects/lava_animation.controller
+  uploadId: 341195
